@@ -1,0 +1,18 @@
+## 1.Hemos clonado nuestro repositorio de gitHub
+
+## 2.Hemos creado la rama develop
+
+
+## 3.Hemos cambiado la rama actual a la rama develop
+
+
+## 4.Hemos creado una carpeta java y hemos añadido dentro los problemas 1y2
+
+
+## 5.Volveremos a cambiar la rama actual a la rama develop
+
+
+##6 Fusionaremos la rama develop a la rama main 
+
+
+##7.Por ultimo llevamos los cambios al repositorio
